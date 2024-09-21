@@ -25,7 +25,7 @@ This guide provides the steps to create a free Microsoft Azure account and acces
 ## Screenshot
 - Below is a screenshot of the Azure dashboard after successful account creation and login.
 
-![Azure Dashboard](link-to-your-screenshot.png)
+![Azure Dashboard](task8.png)
 
 ## Free Services Offered
 - **$200 credit** for the first 30 days.
